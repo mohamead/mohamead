@@ -1,4 +1,4 @@
-## Hi!👋
+## Hi! 👋
 
 ![Image Alt text](img/ADRIK_BANNER.PNG)
 
