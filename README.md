@@ -18,3 +18,5 @@ Here are some technologies and tools I work with:
 - **Databases**: Oracle, MySql and Microsoft Sql Server
 
 Thank you for visiting my profile!
+
+![Image Alt text](img/ADRIK_FOOTER.PNG)
