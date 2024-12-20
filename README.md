@@ -2,7 +2,7 @@
 
 ![Image Alt text](img/ADRIK_BANNER.PNG)
 
-I'm a passionate software developer with a keen interest in building scalable and efficient applications. I enjoy working on backend technologies and am always eager to learn new things.
+A passionate software developer with a keen interest in building scalable and efficient applications. I enjoy working on backend technologies and am always eager to learn new things.
 
 - 🌱 I’m currently learning IntelliJ Platform SDK.
 - 👯 I’m looking to collaborate on IntelliJ Platform related project(s).
