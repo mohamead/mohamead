@@ -17,10 +17,4 @@ Here are some technologies and tools I work with:
 - **Tools**: Git, Docker, Intellij
 - **Databases**: Oracle, MySql and Microsoft Sql Server
 
-Here are some of my notable projects:
-
-- [allure-report-plugin](https://github.com/mohamead/project-name) - Simple plugin that wraps the allure commands: generate, open and serve.
-- [spiderlog-plugin](https://github.com/mohamead/project-name) - Simple log file viewer plugin.
-- [copy-2-jira-plugin](https://github.com/mohamead/project-name) - Simple plugin that lets you copy code from the IDE directly to a jira task(s), without using jira code formatter.
-
 Thank you for visiting my profile!
