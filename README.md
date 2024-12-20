@@ -19,4 +19,4 @@ Here are some technologies and tools I work with:
 
 Thank you for visiting my profile!
 
-![Image Alt text](img/ADRIK_FOOTER.PNG)
+[![Image Alt text](img/ADRIK_FOOTER.PNG)](https://www.mohamedadrik.com)
