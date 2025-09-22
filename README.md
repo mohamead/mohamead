@@ -19,4 +19,6 @@ Here are some technologies and tools I work with:
 
 Thank you for visiting my profile!
 
+![](https://komarev.com/ghpvc/?username=mohamead&style=for-the-badge)
+
 [![Image Alt text](img/ADRIK_FOOTER.PNG)](https://www.mohamedadrik.com)
